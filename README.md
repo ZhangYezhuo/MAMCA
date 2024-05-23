@@ -9,11 +9,11 @@ The increased sequence length complicates the learning process and diminishes ac
 
 if our codes helped your reasearch, please consider citing the corresponding submission
 
-> @article{zhang2024specific,<br>
-> &emsp;&emsp;title={Specific Emitter Identification Handling Modulation Variation with Margin Disparity Discrepancy},<br>
-> &emsp;&emsp;author={Yezhuo Zhang and Zinan Zhou and Xuanpeng Li},<br>
+> @article{zhang2024mamca,<br>
+> &emsp;&emsp;title={MAMCA -- Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length},<br>
+> &emsp;&emsp;author={Yezhuo Zhang and Zinan Zhou and Yichao Cao and Guangyu Li and Xuanpeng Li},<br>
 > &emsp;&emsp;year={2024},<br>
-> &emsp;&emsp;journal={arXiv preprint arXiv:2403.11531},<br>
+> &emsp;&emsp;journal={arXiv preprint arXiv:2405.11263},<br>
 > }
 
 We utilize a denosing unit for better accuracy performance under **noise interference**, while using Mamba as the backbone for **low GPU occupancy** and **training/inference time**.
